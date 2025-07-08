@@ -2,5 +2,4 @@
   for = "/*"
   [headers.values]
     X-Frame-Options = "ALLOWALL"
-    X-Content-Type-Options = "nosniff"
     Content-Security-Policy = "frame-ancestors https://*.autodesk.com https://*.forge.autodesk.com https://construction.autodesk.com"
